@@ -1,5 +1,6 @@
 # Chill-Talk
 > Chill한 사람들의 Chill한 대화입니다.
+<img src="https://github.com/user-attachments/assets/edb8a2b5-3c23-42a9-a356-a29096d60228" width=250>
 
 ## 🦘 스터디원
 | 👑 권영태 | 김원석 | 김희진 | 신예지 |
