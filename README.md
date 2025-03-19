@@ -2,9 +2,13 @@
 > Chill한 사람들의 Chill한 대화입니다.
 
 ## 🦘 스터디원
-| 👑 권영태 | 김원석 | 김희진 | 신예지 | 양여은 | 임재현 | 황지연 | 홍정기 |
-|:-------:|:----:|:-----:|:----:|:----:|:----:|:----:|:----:|
-| [@dudxo](https://github.com/dudxo) | [@dnjstjt1297](https://github.com/dnjstjt1297) | [@heejjinkim](https://github.com/heejjinkim) | [@yereumi](https://github.com/yereumi) | [@Yyang-YE](https://github.com/Yyang-YE) | [@hyeonZIP](https://github.com/hyeonZIP) | [@ghkdwldus0807](https://github.com/ghkdwldus0807) | [@hjg727](https://github.com/hjg727) |
+| 👑 권영태 | 김원석 | 김희진 | 신예지 |
+|:-------:|:----:|:-----:|:----:|
+| [@dudxo](https://github.com/dudxo) | [@dnjstjt1297](https://github.com/dnjstjt1297) | [@heejjinkim](https://github.com/heejjinkim) | [@yereumi](https://github.com/yereumi) |
+
+| 양여은 | 임재현 | 황지연 | 홍정기 |
+|:----:|:----:|:----:|:----:|
+| [@Yyang-YE](https://github.com/Yyang-YE) | [@hyeonZIP](https://github.com/hyeonZIP) | [@ghkdwldus0807](https://github.com/ghkdwldus0807) | [@hjg727](https://github.com/hjg727) |
 
 ## 📍 스터디 규칙
 ### 시간
