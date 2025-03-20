@@ -22,7 +22,7 @@
 ## ✅ 진행 상황
 | 주차(날짜) |
 |:-------:|
-| [1주차(2025.03.18)](https://github.com/URECA-2nd-study/Chill-Talk/blob/main/week01/week01.md) |
+| [1주차(2025.03.18)](https://github.com/URECA-2nd-study/Chill-Talk/tree/main/week01) |
 
 ## 📌 Convention
 ### File Name
