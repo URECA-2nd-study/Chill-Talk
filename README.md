@@ -20,10 +20,11 @@
 - 화요일 발표 전까지 발표 자료를 깃허브에 업로드한다.
 
 ## ✅ 진행 상황
-| 주차(날짜) |
+| 회차(날짜) |
 |:-------:|
-| [1주차(2025.03.18)](https://github.com/URECA-2nd-study/Chill-Talk/tree/main/week01) |
-| [2주차(2025.03.25)](https://github.com/URECA-2nd-study/Chill-Talk/tree/main/week02) |
+| [1회차(2025.03.18)](https://github.com/URECA-2nd-study/Chill-Talk/tree/main/week01) |
+| [2회차(2025.03.25)](https://github.com/URECA-2nd-study/Chill-Talk/tree/main/week02) |
+| [3회차(2025.04.08)](https://github.com/URECA-2nd-study/Chill-Talk/tree/main/week03) |
 
 ## 📌 Convention
 ### File Name
